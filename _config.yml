@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Vinh Q. Tran's Homepage"
+title                    : "Vinh's Homepage"
 title_separator          : "-"
 name                     : &name "Vinh Q. Tran"
-description              : &description "Senior Software Engineer at Google"
+description              : &description "Vinh's Homepage"
 url                      : https://vqtran.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vqtran/vqtran.github.io"
@@ -75,20 +75,20 @@ social:
 analytics:
   provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-N085GSCS7R"
 
 
 # Site Author
 author:
   name             : "Vinh Q. Tran"
-  avatar           : "profile.png"
-  bio              : "Senior Software Engineer at Google"
+  avatar           : "profile.jpeg"
+  bio              : "ML/NLP Researcher, Senior Software Engineer at Google"
   location         : "Brooklyn, NY"
   employer         :
-  pubmed           : ""
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=ot3WsOwAAAAJ"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -96,17 +96,17 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "vqtran"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : ""
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "vqctran"
