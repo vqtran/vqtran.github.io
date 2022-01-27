@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Bio
+===
+
 Hello! I'm a Senior Software Engineer at Google Research NY where I work methods for sequence modeling / NLP and machine learning. I am generally interested in anything that can improve, expand, or rethink the functionality of Transformers and other state-of-the-art sequence models. In the previous five years, I have worked on a wide variety of teams including fact checking, news understanding, and database visualization. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
 
 
