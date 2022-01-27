@@ -1,16 +1,13 @@
 ---
 permalink: /
-excerpt: "Bio"
+title: "Bio"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Bio
-===
-
-Hello! I'm a Senior Software Engineer at Google Research NY where I work methods for sequence modeling / NLP and machine learning. I am generally interested in anything that can improve, expand, or rethink the functionality of Transformers and other state-of-the-art sequence models. In the previous five years, I have worked on a wide variety of teams including fact checking, news understanding, and database visualization. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
+Hello! I'm a Senior Software Engineer at [Google Research NY](https://research.google/people/VinhQTran/) where I work methods for sequence modeling / NLP and machine learning. I am generally interested in anything that can improve, expand, or rethink the functionality of Transformers and other state-of-the-art sequence models. Prior to this, I have worked on a wide variety of projects including generation for news, fact checking, and database visualization. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
 
 
 Publications
@@ -24,7 +21,7 @@ Yi Tay\*, **Vinh Q. Tran\***, Sebastian Ruder, Jai Gupta, Hyung Won Chung, Dara 
 *Accepted to ICLR 2022.*
 
 [AgreeSum: Agreement-oriented multi-document summarization](https://aclanthology.org/2021.findings-acl.299/) (2021) \
-Richard Yuanzhe Pang\*, Adam Lelkes\*, **Vinh Q. Tran\***;, and Cong Yu. \
+Richard Yuanzhe Pang\*, Adam Lelkes\*, **Vinh Q. Tran\***, and Cong Yu. \
 *ACL Findings 2021.*
 
 [Quiz-Style Question Generation for News Stories](https://arxiv.org/abs/2102.09094) (2021) \
