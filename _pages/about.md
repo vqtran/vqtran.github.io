@@ -20,7 +20,7 @@ Yi Tay, **Vinh Q. Tran**, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, 
 *Preprint*
 
 [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176) (2022) \
-Alyssa Lees\*, **Vinh Q. Tran\***, Yi Tay\*, Jeffrey Sorensen, Jai Gupta, Donald Metzler, Lucy Vasserman
+Alyssa Lees\*, **Vinh Q. Tran\***, Yi Tay\*, Jeffrey Sorensen, Jai Gupta, Donald Metzler, Lucy Vasserman \
 *Preprint*
 
 [ExT5: Towards extreme multi-task scaling for transfer learning](https://arxiv.org/abs/2111.10952) (2021) \
