@@ -16,7 +16,7 @@ Hello! I'm a Senior Software Engineer at [Google Research NY](https://research.g
 Publications
 ============
 [Unifying Language Learning Paradigms](https://arxiv.org/pdf/2205.05131.pdf) (2022) \
-Yi Tay\*, Mostafa Dehghani\*, **Vinh Q. Tran**, Xavier Garcia, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Neil Houlsby, Donald Metzler
+Yi Tay\*, Mostafa Dehghani\*, **Vinh Q. Tran**, Xavier Garcia, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Neil Houlsby, Donald Metzler \
 *Preprint*
 
 [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991) (2022) \
