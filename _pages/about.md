@@ -15,13 +15,17 @@ Hello! I'm a Senior Software Engineer at [Google Research NY](https://research.g
 
 Publications
 ============
+[Unifying Language Learning Paradigms](https://arxiv.org/pdf/2205.05131.pdf) (2022) \
+Yi Tay\*, Mostafa Dehghani\*, **Vinh Q. Tran**, Xavier Garcia, Dara Bahri, Tal Schuster, Huaixiu Steven Zheng, Neil Houlsby, Donald Metzler
+*Preprint*
+
 [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991) (2022) \
 Yi Tay, **Vinh Q. Tran**, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler \
 *Preprint*
 
 [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176) (2022) \
 Alyssa Lees\*, **Vinh Q. Tran\***, Yi Tay\*, Jeffrey Sorensen, Jai Gupta, Donald Metzler, Lucy Vasserman \
-*Preprint*
+*KDD'22 Applied Data Science*
 
 [ExT5: Towards extreme multi-task scaling for transfer learning](https://arxiv.org/abs/2111.10952) (2021) \
 Vamsi Aribandi\*, Yi Tay\*, Tal Schuster, Jinfeng Rao, Huaixiu Steven Zheng, Sanket Vaibhav Mehta, Honglei Zhuang, **Vinh Q. Tran**, Dara Bahri, Jianmo Ni, Jai Gupta, Kai Hui, Sebastian Ruder, and Donald Metzler. \
