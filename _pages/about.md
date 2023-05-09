@@ -26,7 +26,7 @@ Yi Tay\*, Mostafa Dehghani\*, **Vinh Q. Tran**, Xavier Garcia, Dara Bahri, Tal S
 *ICLR 2023*
 
 [Transformer Memory as a Differentiable Search Index](https://arxiv.org/abs/2202.06991) (2022) \
-Yi Tay, **Vinh Q. Tran**, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler \
+Yi Tay\*, **Vinh Q. Tran\***, Mostafa Dehghani, Jianmo Ni, Dara Bahri, Harsh Mehta, Zhen Qin, Kai Hui, Zhe Zhao, Jai Gupta, Tal Schuster, William W. Cohen, Donald Metzler \
 *NeurIPS 2022*
 
 [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://arxiv.org/abs/2202.11176) (2022) \
