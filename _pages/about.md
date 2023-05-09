@@ -17,7 +17,7 @@ Prior to research, I worked on a wide variety of projects across Google includin
 
 Selected Publications
 ============
-[Transcending scaling laws with 0.1% extra compute] \
+[Transcending scaling laws with 0.1% extra compute](https://arxiv.org/abs/2210.11399) (2022) \
 Yi Tay, Jason Wei, Hyung Won Chung, **Vinh Q. Tran**, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani \
 *arxiv*
 
