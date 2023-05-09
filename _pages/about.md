@@ -10,13 +10,15 @@ redirect_from:
 Bio
 ===
 
-Hello! I'm a Staff Research Engineer at [Google Research NY](https://research.google/people/VinhQTran/) where I work on methods for sequence modeling / NLP and machine learning. My research interests are in all things related to improving, expanding, or rethinking the functionality of Transformers and other state-of-the-art sequence models. During my time here I have made significant contributions to efficient token-free models, generative retrieval, safety, and Bard creativity. Prior to research, I worked on a wide variety of projects across Google including natural language generation for news, fact checking, database visualization, and distributed systems. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
+Hello! I'm a Staff Research Engineer at [Google Research NY](https://research.google/people/VinhQTran/) where I develop methods for sequence modeling / NLP, machine learning, and AI. My research interests are in all things related to improving, expanding, or rethinking the functionality of Transformers and other state-of-the-art sequence models. At Google, I have made significant contributions to efficient token-free models, generative retrieval, safety, and Bard creativity.
+
+Prior to research, I worked on a wide variety of projects across Google including natural language generation for news, fact checking, database visualization, and distributed systems. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
 
 
 Selected Publications
 ============
-[Transcending scaling laws with 0.1% extra compute]
-Yi Tay, Jason Wei, Hyung Won Chung, **Vinh Q. Tran**, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani
+[Transcending scaling laws with 0.1% extra compute] \
+Yi Tay, Jason Wei, Hyung Won Chung, **Vinh Q. Tran**, David R. So, Siamak Shakeri, Xavier Garcia, Huaixiu Steven Zheng, Jinfeng Rao, Aakanksha Chowdhery, Denny Zhou, Donald Metzler, Slav Petrov, Neil Houlsby, Quoc V. Le, Mostafa Dehghani \
 *arxiv*
 
 [UL2: Unifying Language Learning Paradigms](https://arxiv.org/pdf/2205.05131.pdf) (2022) \
