@@ -10,7 +10,7 @@ redirect_from:
 Bio
 ===
 
-Hello! I'm a Staff Research Engineer at [Google Research NY](https://research.google/people/VinhQTran/) where I develop methods for sequence modeling / NLP, machine learning, and AI. My research interests are in all things related to improving, expanding, or rethinking the functionality of Transformers and other state-of-the-art sequence models. At Google, I have made significant contributions to efficient token-free models, generative retrieval, safety, and Bard creativity.
+Hello! I'm a Staff Research Scientist at [Google Research NY](https://research.google/people/VinhQTran/) where I develop methods for sequence modeling / NLP, machine learning, and AI. My research interests are in all things related to improving, expanding, or rethinking the capabilities of language models, transformers, and other state-of-the-art sequence models. At Google, I have made significant contributions to efficient token-free models, generative retrieval, safety, and Bard v1 creativity.
 
 Prior to research, I worked on a wide variety of projects across Google including natural language generation for news, fact checking, database visualization, and distributed systems. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
 
