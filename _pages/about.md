@@ -10,9 +10,11 @@ redirect_from:
 Bio
 ===
 
-Hello! I'm a Staff Research Scientist at [Google Research NY](https://research.google/people/VinhQTran/) where I develop methods for sequence modeling / NLP, machine learning, and AI. My research interests are in all things related to improving, expanding, or rethinking the capabilities of language models, transformers, and other state-of-the-art sequence models. At Google, I have made significant contributions to efficient token-free models, generative retrieval, safety, and Bard v1 creativity.
+Hello! I'm a Staff Research Scientist at Google DeepMind in NY. These days my primary focus is improving Gemini training at the frontier, mostly on the pretraining side. I lead a small research group working on Gemini at the intersection of pretraining data, objectives, methodology and architectures. My general research interests revolve around anything that fundamentally changes the way we understand, train, or use langauge models at every stage of the modeling lifecycle.
 
-Prior to research, I worked on a wide variety of projects across Google including natural language generation for news, fact checking, database visualization, and distributed systems. In a previous life I was a full-stack software developer, and prior to that I attended Brown University as an undergrad ('16).
+Prior to research, I worked on a wide variety of projects across Google and Google Research including planet-scale distributed systems, database visualization, misinformation, fact checking, and news. In a previous life I was a full-stack web developer, and prior to that I attended Brown University as an undergrad ('16).
+
+  
 
 
 Selected Publications
