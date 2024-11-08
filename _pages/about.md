@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![image](images/vinh-portugal.jpeg)
+![image](images/vinh-flash.jpeg)
 
 Hello! I'm a Staff Research Scientist at Google DeepMind in NY, working on core Gemini modeling.
 
