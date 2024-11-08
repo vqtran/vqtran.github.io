@@ -9,11 +9,16 @@ redirect_from:
 
 ![image](images/vinh-portugal.jpeg)
 
-Hello! I'm a Staff Research Scientist at Google DeepMind in NY. These days my primary focus is improving Gemini training at the frontier, mostly on the pretraining side. I lead a small research group working on Gemini at the intersection of pretraining data, objectives, methodology and architectures. My general research interests revolve around anything that fundamentally changes the way we understand, train, or use language models at every stage of the modeling lifecycle.
+Hello! I'm a Staff Research Scientist at Google DeepMind in NY, working on core Gemini modeling.
+
+These days my primary focus is improving Gemini training at the frontier, mostly on the pretraining side. I lead a small research group working on Gemini at the intersection of pretraining data, objectives, methodology and architectures.
+
+My general research interests revolve around anything that fundamentally changes the way we understand, train, or use language models at every stage of the modeling lifecycle.
 
 Prior to research, I worked on a wide variety of projects across Google and Google Research including planet-scale distributed systems, database visualization, misinformation, fact checking, and news. In a previous life I was a full-stack web developer, and prior to that I attended Brown University as an undergrad ('16).
 
-  \
+      
+      
 
 Selected Publications
 ============
