@@ -39,7 +39,7 @@ Yi Tay\*, **Vinh Q. Tran\***, Sebastian Ruder, Jai Gupta, Hyung Won Chung, Dara 
 Alyssa Lees\*, **Vinh Q. Tran\***, Yi Tay\*, Jeffrey Sorensen, Jai Gupta, Donald Metzler, Lucy Vasserman \
 *KDD 2022 ADS*
 
-Please see my full list and recent publications on my [Scholar](https://vqtran.github.io/).
+Please see my full list and recent publications on my [Scholar](https://scholar.google.com/citations?hl=en&user=ot3WsOwAAAAJ).
 
 ## Mentoring & Service
 
