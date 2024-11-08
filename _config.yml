@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vinh Q. Tran"
-  avatar           : "vinh-portugal.jpeg"
+  avatar           :
   bio              : "Staff Research Scientist @ Google DeepMind"
   location         : "Brooklyn, NY"
   employer         :
