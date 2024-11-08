@@ -46,7 +46,7 @@ Please see my full list and recent publications on my [Scholar](https://vqtran.g
 Mentored Student Researchers & Interns @ Google
 1. [Hritik Bansal](https://sites.google.com/corp/view/hbansal) (2024 Student Researcher, PhD @ UCLA)
 1. [Ronak Pradeep](https://ronakice.github.io/) (2023 Student Researcher, PhD @ Waterloo)
-1. [Sanket Vaibhav Mehta](https://sanketvmehta.github.io/) (2022 Research Intern, now on my team!)
+1. [Sanket Vaibhav Mehta](https://sanketvmehta.github.io/) (2022 Research Intern, now RS on my team!)
 1. [Yuanzhe (Richard) Pang](https://yzpang.github.io/) (2020 Research Intern, now RS @ Meta)
 1. [Kate Lin](https://kateslin.github.io/) (2019 STEP Intern, now SWE @ Google Research)
 1. [Amy Pu](https://underline.io/speakers/149353-amy-pu) (2019 STEP Intern, now SWE @ YouTube Music Recommendations)
