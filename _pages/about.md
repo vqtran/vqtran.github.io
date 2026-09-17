@@ -9,11 +9,17 @@ redirect_from:
 
 ![image](images/vinh-flash.jpeg)
 
-Hello! I'm a Senior Staff Research Scientist at Google DeepMind in New York working on core Gemini modeling.
+I lead the AI team at Polyphron in NYC where we're training frontier models that autonomously explore, understand, and physically reproduce human tissue biology in an automated wet-lab. It's our grand vision to grow tissues realistic enough to match human response to all drugs, and realistic enough to recover organ function when transplanted into living organisms. Reach out if you want to chat!
 
-I currently lead an amazing team of six research scientists working on RL scaling techniques, multi-agent RL, and self-improvement. During my tenure, my contributions to Gemini have spanned pretraining data & architectures, domain-specific mid-training, core post-training for Gemini releases, and modeling for Gemini's [IMO 2025 gold medal](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/).
+~ ~ ~ ~
+
+Previously, I was a Senior Staff Research Scientist at Google DeepMind on core Gemini modeling. I led an amazing team of six research scientists working on RL scaling techniques, multi-agent RL, and self-improvement. During my tenure, my contributions to Gemini have spanned pretraining data & architectures, domain-specific mid-training, core post-training for Gemini releases, and modeling for Gemini's [IMO 2025 gold medal](https://deepmind.google/blog/advanced-version-of-gemini-with-deep-think-officially-achieves-gold-medal-standard-at-the-international-mathematical-olympiad/).
+
+~ ~ ~ ~
 
 Prior to Gemini, I co-invented [generative retrieval](https://arxiv.org/abs/2202.06991), in particular: *semantic identifiers*, an approach now further refined and widely adopted in generative search and recommendation systems such as [Spotify's](https://research.atspotify.com/2025/11/teaching-large-language-models-to-speak-spotify-how-semantic-ids-enable). I also pioneered one of the earliest large-scale deployments of efficient character-level transformers at [Google](https://arxiv.org/abs/2202.11176), and made core contributions to pretraining objectives research.
+
+~ ~ ~ ~
 
 Prior to research, I worked on a wide variety of projects across Google and Google Research including planet-scale distributed storage systems, visual analytics, misinformation, fact checking, and news applications. Before that I was a full-stack web developer, and before that I attended Brown University as an undergraduate in 2016. :)
 <br/>
