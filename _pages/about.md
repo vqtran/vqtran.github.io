@@ -9,7 +9,7 @@ redirect_from:
 
 ![image](images/vinh-flash.jpeg)
 
-I lead the AI team at Polyphron in NYC where we're training frontier models that autonomously explore, understand, and physically reproduce human tissue biology in an automated wet-lab. It's our grand vision to grow tissues realistic enough to match human response to all drugs, and realistic enough to recover organ function when transplanted into living organisms. Reach out if you want to chat!
+I lead the AI team at [Polyphron](https://polyphron.com) in NYC where we're training frontier models that autonomously explore, understand, and physically reproduce human tissue biology in an automated wet-lab. It's our grand vision to grow tissues realistic enough to match human response to all drugs, and realistic enough to recover organ function when transplanted into living organisms. Reach out if you want to chat!
 
 ~ ~ ~ ~
 
